@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+.env
+dist/
+*.log
+
+# Cloudflare
+wrangler.toml
